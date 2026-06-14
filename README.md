@@ -46,11 +46,6 @@ python bot.py
 | `/remindme <time> <message>` | Sets a reminder |
 | `/toggleeboard` | Toggles E-Board Applications section |
 | `/help` | Shows all commands |
-
-2. A .gitignore file — critical, so you don't accidentally push your token/passwords:
-.env
-.venv/
-venv/
 logs/
 __pycache__/
 *.pyc
