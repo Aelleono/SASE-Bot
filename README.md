@@ -4,7 +4,7 @@
 
 ![Announcement Embed](screenshots/announcement.png)
 ![Verification Gate](screenshots/verification.png)
-![Task Board](screenshots/taskboard.png)
+![Roles Selection](screenshots/roles.png)
 
 A Discord bot built for the UMass Lowell SASE chapter to automate event 
 operations and member engagement.
