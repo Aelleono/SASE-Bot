@@ -22,17 +22,17 @@ ANNOUNCEMENT_CHANNEL_ID = int(os.getenv("ANNOUNCEMENT_CHANNEL_ID"))
 # Timezone used to interpret Date/Time fields parsed from emails when
 # creating Discord scheduled events.
 EVENT_TIMEZONE = ZoneInfo("America/New_York")
-ROLES_CHANNEL_ID = 1514750245655937024
-WELCOME_CHANNEL_ID = 1514731537281712169
+ROLES_CHANNEL_ID = "ADD_CHANNEL_ID"
+WELCOME_CHANNEL_ID = "ADD_CHANNEL_ID"
 
 # Forum channel dedicated to task tracking (#task-board)
-TASKS_CHANNEL_ID = 1514932410200883260
+TASKS_CHANNEL_ID = "ADD_CHANNEL_ID"
 ROLE_NAME = "Events"
 INSTA_ROLE_NAME = "Media"
 
 # ---------- Verification gate ----------
 # Create a #verification channel and put its ID here.
-VERIFICATION_CHANNEL_ID = 1514939945746305044
+VERIFICATION_CHANNEL_ID = "ADD_CHANNEL_ID"
 UNVERIFIED_ROLE_NAME = "Unverified"
 MEMBER_ROLE_NAME = "SASE Member"
 
