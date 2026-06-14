@@ -12,7 +12,7 @@ GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 
 # Sender address that Campus Groups sends notifications from.
-CAMPUS_GROUPS_SENDER = "Alan_Dang@student.uml.edu"
+CAMPUS_GROUPS_SENDER = "ADD_EMAIL_HERE"
 
 # Text that should appear in the subject or body to identify it as a SASE email
 # (since other clubs also forward through the same Gmail inbox).
