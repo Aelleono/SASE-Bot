@@ -46,7 +46,4 @@ python bot.py
 | `/remindme <time> <message>` | Sets a reminder |
 | `/toggleeboard` | Toggles E-Board Applications section |
 | `/help` | Shows all commands |
-logs/
-__pycache__/
-*.pyc
-birthdays.json
+
