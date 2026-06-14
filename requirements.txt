@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+msal
+beautifulsoup4
+requests
+python-dateutil
+tzdata
